@@ -154,10 +154,10 @@ video {
   background: linear-gradient(to bottom, #E3FDF5 0%,#FFE6FA  100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E3FDF5', endColorstr='#FFE6FA ',GradientType=0 ); /* IE6-9 */
   position:fixed;
-  left:25px;
+  left:10px;
   top:10px;
-  right:25px;
-  bottom: 25px;
+  right:10px;
+  bottom: 10px;
 }
 .wrapper-background-dark:after {
   background: #fff;
